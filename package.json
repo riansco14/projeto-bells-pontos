@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@mediapipe/face_mesh": "^0.4.1633559619",
+    "@tensorflow-models/face-detection": "^1.0.1",
+    "@tensorflow-models/face-landmarks-detection": "^1.0.2",
+    "@tensorflow-models/facemesh": "^0.0.5",
+    "@tensorflow/tfjs": "^4.2.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.2.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
